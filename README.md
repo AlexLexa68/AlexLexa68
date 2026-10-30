@@ -1,3 +1,13 @@
-## aoj
+- 🔭 I’m currently working on **rocnikovka😖**
 
-🥰 I’m currently learning 6 7
+- 🤝 I’m looking for help with **69**
+
+- 🌱 I’m currently learning **67**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
+****
